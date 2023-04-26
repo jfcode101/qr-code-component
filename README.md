@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL : https://github.com/jfcode101/qr-code-component
-- Live Site URL :
+- Solution URL  : https://github.com/jfcode101/qr-code-component
+- Live Site URL : https://jfcode101.github.io/qr-code-component/
 
 ## My process
 
@@ -34,8 +34,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- W3schools : https://www.w3schools.com/
-- MDN web docs : https://developer.mozilla.org/en-US/docs/Learn
+- W3schools     : https://www.w3schools.com/
+- MDN web docs  : https://developer.mozilla.org/en-US/docs/Learn
 
 ## Author
 
